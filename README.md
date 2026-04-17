@@ -14,3 +14,19 @@ This project demonstrates the handling and analysis of large-scale datasets usin
 - Python
 - Dask
 - Jupyter Notebook
+
+# Task 2: Predictive Analysis (Machine Learning)
+
+## Project Overview
+This task involves building a predictive model using **Machine Learning**. The goal was to predict housing prices using the California Housing dataset by implementing a Linear Regression model.
+
+## Workflow
+1. Data Loading: Imported the dataset via Scikit-Learn.
+2. Feature Selection: Identified key variables (e.g., Median Income) that influence the target.
+3. Model Training: Split data into training and testing sets to validate performance.
+4. Evaluation: Measured accuracy using Mean Squared Error (MSE).
+
+## Technologies Used
+- Scikit-Learn
+- Pandas
+- NumPy
