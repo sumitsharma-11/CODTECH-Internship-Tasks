@@ -30,3 +30,18 @@ This task involves building a predictive model using **Machine Learning**. The g
 - Scikit-Learn
 - Pandas
 - NumPy
+
+# Task 3: Interactive Dashboard Development
+
+## Project Overview
+The objective was to transform raw data into **Actionable Insights** through an interactive dashboard. Using **Plotly**, I created a dynamic visualization that allows users to explore global economic trends.
+
+## Features
+- Interactive Visuals: Bubble charts with hover capabilities and zoom functions.
+- Data Storytelling: Visualized the relationship between GDP, population, and life expectancy.
+- User-Centric Design: Focused on clarity and ease of navigation.
+
+## Technologies Used
+- Plotly Express
+- Pandas
+- Jupyter Notebook
