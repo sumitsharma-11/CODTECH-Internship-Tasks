@@ -45,3 +45,18 @@ The objective was to transform raw data into **Actionable Insights** through an 
 - Plotly Express
 - Pandas
 - Jupyter Notebook
+
+# Task 4: Sentiment Analysis (NLP)
+
+## Project Overview
+This project applies **Natural Language Processing (NLP)** to analyze the sentiment of textual data. By processing reviews, the model categorizes feedback into Positive, Negative, or Neutral sentiments.
+
+## Methodology
+- Preprocessing: Cleaned and prepared text data for analysis.
+- Sentiment Scoring: Utilized the TextBlob library for polarity detection.
+- Insight Extraction: Visualized the distribution of sentiments across the dataset.
+
+## Technologies Used
+- NLTK / TextBlob
+- Pandas
+- Python
